@@ -1,0 +1,24 @@
+{
+  "name": "fzx-daihuo-prompt-skill",
+  "version": "1.0.0",
+  "description": "电商带货九宫格 AI 提示词生成技能 — GPT-Image 2 + Seedance 2.0",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "keywords": [
+    "带货",
+    "九宫格",
+    "GPT-Image2",
+    "Seedance",
+    "电商",
+    "提示词",
+    "prompt",
+    "e-commerce"
+  ],
+  "author": "风之馨技术录",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
