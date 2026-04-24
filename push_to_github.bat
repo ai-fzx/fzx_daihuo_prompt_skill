@@ -10,8 +10,8 @@ echo [1/3] 检查 Git 状态...
 git status
 
 echo.
-echo [2/3] 设置远程仓库（SSH 方式）...
-git remote set-url origin git@github.com:ai-fzx/fzx_daihuo_prompt_skill.git
+echo [2/3] 设置远程仓库（HTTPS 方式）...
+git remote set-url origin https://github.com/ai-fzx/fzx_daihuo_prompt_skill.git
 git remote -v
 
 echo.
